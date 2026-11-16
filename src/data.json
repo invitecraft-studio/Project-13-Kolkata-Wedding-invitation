@@ -1,0 +1,27 @@
+{
+ "bride": "Ananya", "groom": "Arjun",
+ "bengali": "শুভ বিবাহ",
+ "date": "2026-12-03T00:00:00+05:30",
+ "dateText": "Thursday, 3rd December 2026",
+ "city": "Kolkata, West Bengal",
+ "brideParents": "Mr. & Mrs. Bride's Parents",
+ "groomParents": "Mr. & Mrs. Groom's Parents",
+ "whatsapp": "910000000000",
+ "hashtag": "#AnanyaWedsArjun",
+ "invite": "With the blessings of the Almighty and our elders, we joyfully invite you to share in the celebration of our wedding.",
+ "story": [
+  {"img":14,"t":"From friendship to soulmates","x":"Two hands, one little promise, and a lifetime that began as a friendship."},
+  {"img":3,"t":"A lotus offered","x":"Some feelings need no words. A flower, a glance, and the heart knows."},
+  {"img":15,"t":"Mehendi and bangles","x":"Every line of henna carries a blessing for the days ahead."},
+  {"img":16,"t":"The promise","x":"Two rings, two hearts, one vow, made in front of those we love."},
+  {"img":5,"t":"Seven steps together","x":"Dhoti and red saree, hands held tight. We walk the road ahead as one."},
+  {"img":4,"t":"Footsteps that meet","x":"Wherever the path leads, we will reach it side by side."},
+  {"img":13,"t":"Evenings of lanterns","x":"Soft lights, familiar faces, and a night we will remember forever."}
+ ],
+ "events": [
+  {"t":"Gaye Holud","d":"2026-12-02","time":"11:00 AM","venue":"Family Residence, Kolkata","img":13,"x":"Turmeric, laughter and blessings."},
+  {"t":"Shubho Bibaho","d":"2026-12-03","time":"7:00 PM","venue":"Wedding Venue, Kolkata","img":2,"x":"The wedding ceremony. Muhurat as per the invitation card."},
+  {"t":"Reception","d":"2026-12-04","time":"7:30 PM","venue":"Reception Hall, Kolkata","img":7,"x":"An evening of dinner, music and celebration."}
+ ],
+ "closing": "Your presence and blessings will make our day complete."
+}
